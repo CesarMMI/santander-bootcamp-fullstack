@@ -1,4 +1,4 @@
-# Strogonoff de Frango :chicken
+# Strogonoff de Frango :chicken:
 ### Lorem ipsum dolor sit amet
  - consectetur adipiscing elit.
  - Mauris vitae consequat lacus.
