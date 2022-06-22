@@ -20,6 +20,8 @@
       <li>Posicionando elementos com Flexbox em CSS</li>
       <li><a href="https://github.com/CesarMMI/instagram-dio" target="_blank">Recriando a página inicial do Instagram</a></li>
       <li><a href="https://github.com/CesarMMI/basecamp-javascript" target="_blank">Basecamp JavaScript</a></li>
+      <li>Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces</li>
+      <li><a href="https://github.com/CesarMMI/mentoria-typescript" target="_blank">Introdução Prática ao TypeScript</a></li>
     </ul>
   </li>
 </ol>
