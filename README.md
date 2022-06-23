@@ -21,13 +21,13 @@
       <li><a href="https://github.com/CesarMMI/instagram-dio" target="_blank">Recriando a página inicial do Instagram</a></li>
       <li><a href="https://github.com/CesarMMI/basecamp-javascript" target="_blank">Basecamp JavaScript</a></li>
       <li>Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces</li>
-      <li><a href="https://github.com/CesarMMI/course-manager" target="_blank">Introdução ao Angular 8</a></li>
+      <li><a href="https://github.com/CesarMMI/mentoria-typescript" target="_blank">Introdução Prática ao TypeScript</a></li>
     </ul>
   </li>
   <li>
     <h4>Angular</h4>
     <ul>
-      <li><a href="https://github.com/CesarMMI/instagram-dio" target="_blank">Recriando a página inicial do Instagram</a></li>
+      <li><a href="https://github.com/CesarMMI/course-manager" target="_blank">Introdução ao Angular 8</a></li>
     </ul>
   </li>
 </ol>
